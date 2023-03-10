@@ -1,0 +1,26 @@
+[
+    {
+        "cep": "07152-170",
+        "logradouro": "Rua Calábria",
+        "complemento": "",
+        "bairro": "Parque Santos Dumont",
+        "localidade": "Guarulhos",
+        "uf": "SP",
+        "ibge": "3518800",
+        "gia": "3360",
+        "ddd": "11",
+        "siafi": "6477"
+    },
+    {
+        "cep": "01001-000",
+        "logradouro": "Praça da Sé",
+        "complemento": "lado ímpar",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "ibge": "3550308",
+        "gia": "1004",
+        "ddd": "11",
+        "siafi": "7107"
+    }
+]
